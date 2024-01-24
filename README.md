@@ -35,9 +35,3 @@ This project is an admin dashboard for managing an electronic shop. It is built 
 
 - **Database:**
   - PostgreSQL for data storage
-
-## Setup Instructions
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/electronic-shop-admin.git
